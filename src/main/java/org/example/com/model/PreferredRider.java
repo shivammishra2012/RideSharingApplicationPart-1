@@ -1,8 +1,8 @@
 package org.example.com.model;
 
-public class PreferredDriver extends NormalRider{
+public class PreferredRider extends NormalRider{
 
-    public PreferredDriver(String name) {
+    public PreferredRider(String name) {
         super(name);
     }
 }
